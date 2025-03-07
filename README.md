@@ -27,3 +27,9 @@ A user-friendly sign-up form with fields for first name, last name, email ID, an
 #### Features:
 - Input fields for first name, last name, email ID, and password
 - Client-side validation with error messages
+
+### 5. [Student ID Generator](https://github.com/sheet848/JavascriptUI/tree/main/student-id-generator)
+The goal of this project is to create an ID card generator that takes inputs such as Student Name, College Name, and Location, and generates an ID card when the user clicks the “Generate Card” button 
+#### Learnings:
+- DOM manipulation using JavaScript
+- Form handling
