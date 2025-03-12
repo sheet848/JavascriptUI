@@ -33,3 +33,11 @@ The goal of this project is to create an ID card generator that takes inputs suc
 #### Learnings:
 - DOM manipulation using JavaScript
 - Form handling
+
+## React projects
+1. Clicker App
+2. Digital Clock App
+3. User Feed App
+4. Image Gallery App
+5. Navbar using React Router
+6. Cryptocurrency Listing App
