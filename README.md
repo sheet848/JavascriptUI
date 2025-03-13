@@ -41,3 +41,7 @@ The goal of this project is to create an ID card generator that takes inputs suc
 4. Image Gallery App
 5. Navbar using React Router
 6. Cryptocurrency Listing App
+7. Image Recognition App using Tensorflow.js
+8. Markdown Editor with Preview Pane
+9. VR Headset Launch Website
+10. Home Decor Website using Material UI
