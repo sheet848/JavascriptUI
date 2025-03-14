@@ -45,3 +45,6 @@ The goal of this project is to create an ID card generator that takes inputs suc
 8. Markdown Editor with Preview Pane
 9. VR Headset Launch Website
 10. Home Decor Website using Material UI
+11. Instagram stories feed
+12. SpaceX Launch Info App
+13. Building Charts Visualization
