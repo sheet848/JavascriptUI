@@ -48,3 +48,5 @@ The goal of this project is to create an ID card generator that takes inputs suc
 11. Instagram stories feed
 12. SpaceX Launch Info App
 13. Building Charts Visualization
+14. Developer Portfolio
+15. Implementing Theme Switching
